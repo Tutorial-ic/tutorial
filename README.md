@@ -1,3 +1,5 @@
+Tutorial para preparar o ambiente no windows para o curso
+
 1. Instalar o WSL: [https://learn.microsoft.com/pt-br/windows/wsl/install](url)
 Possível problema que pode ocorrer e sua solução:
 ![error](https://github.com/emap-ic-20241/syllabus/assets/99206764/5756e096-ff9c-4302-9a97-c6dc3f159123)

@@ -1,4 +1,4 @@
-Tutorial para preparar o ambiente no windows para o curso
+Tutorial para preparar o ambiente no windows para o curso:
 
 1. Instalar o WSL: [https://learn.microsoft.com/pt-br/windows/wsl/install](url)
 Possível problema que pode ocorrer e sua solução:

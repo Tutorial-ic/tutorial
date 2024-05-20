@@ -1,6 +1,6 @@
 Tutorial para preparar o ambiente no windows para o curso:
 
-1. Instalar o WSL: [https://learn.microsoft.com/pt-br/windows/wsl/install](hthttps://git-scm.com/book/pt-br/v2/Começando-Instalando-o-Gittps://learn.microsoft.com/pt-br/windows/wsl/install)
+1. Instalar o WSL: [https://learn.microsoft.com/pt-br/windows/wsl/install](https://git-scm.com/book/pt-br/v2/Começando-Instalando-o-Gittps://learn.microsoft.com/pt-br/windows/wsl/install)
 Possível problema que pode ocorrer e sua solução:
 ![error](https://github.com/emap-ic-20241/syllabus/assets/99206764/5756e096-ff9c-4302-9a97-c6dc3f159123)
 Após reiniciar o windows, se aparecer a mensagem de erro acima, você deve habilitar a opção de virtualização na BIOS do computador. Para tal, desligue-o e pressionando a tecla para abrir a BIOS assim que ligá-lo de volta (normalmente é a tecla "delete"). Agora, procure a opção SVM Mode e habilite-a (pode ser diferente para cada placa-mãe, então se não a achar, recomendo pesquisar como fazer para a sua).

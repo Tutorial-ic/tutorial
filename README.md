@@ -7,7 +7,7 @@ Após reiniciar o windows, se aparecer a mensagem de erro acima, você deve habi
 Após isso, recomece o passo-passo do zero.
 
 2. Instalar o Git: [https://git-scm.com/book/pt-br/v2/Começando-Instalando-o-Git](https://git-scm.com/book/pt-br/v2/Começando-Instalando-o-Git)
-3. Instalar o GCC: #8 (obrigado @szacomelli (: )
+3. Instalar o clang: sudo apt install clang
 4. Instalar e configurar o VS Code: [https://learn.microsoft.com/pt-br/windows/wsl/tutorials/wsl-vscode](https://learn.microsoft.com/pt-br/windows/wsl/tutorials/wsl-vscode)
 Detalhes IMPORTANTES: 
 Instalar o VS Code em um diretório do WINDOWS;
